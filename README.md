@@ -8,7 +8,7 @@ It has 4 buttons
 New Array Button-It will Generate new array
 ![Screenshot from 2022-04-06 22-01-25](https://user-images.githubusercontent.com/101265586/162024056-1f9be64b-cad1-44d4-a410-778ebfa25b81.png)
 
-Sort Array Button-It will the existing array
+Sort Array Button-It will sort the existing array
 ![Screenshot from 2022-04-06 22-01-39](https://user-images.githubusercontent.com/101265586/162024858-e68e8e5d-a995-4365-ad47-1a69e9f61006.png)
 
 Bar and Line Chart Button- It will represent the array in different views.
